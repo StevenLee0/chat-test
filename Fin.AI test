@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chat Test Page</title>
+  </head>
+  <body>
+    <h1>Chat Widget Test</h1>
+    <p>Use the chat bubble to test.</p>
+
+    <!-- CHAT WIDGET GOES BELOW -->
+    
+  </body>
+</html>
